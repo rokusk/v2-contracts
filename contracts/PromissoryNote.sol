@@ -133,7 +133,7 @@ contract PromissoryNote is
         owner = loanCore;
     }
 
-    // ===================================== ERC721 UTILITIES ===========================================
+    // ===================================== ERC721 UTILITIES ============================================
 
     /**
      * @dev See {IERC165-supportsInterface}.
