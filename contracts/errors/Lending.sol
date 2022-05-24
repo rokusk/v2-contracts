@@ -42,7 +42,7 @@ error OC_LoanDuration(uint256 durationSecs);
 error OC_InterestRate(uint256 interestRate);
 
 /**
- * @notice Loan terms must have even number of installments and intallment periods must be < 1000000.
+ * @notice Loan terms must have even number of installments and installment periods must be < 1000000.
  *
  * @param numInstallments               Number of installment periods in loan.
  */
